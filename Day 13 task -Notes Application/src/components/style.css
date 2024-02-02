@@ -1,0 +1,61 @@
+/* src/styles/CloudComputing.css */
+
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f4f6; /* Light gray background color */
+  color: #333; /* Default text color */
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header Styles */
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0066cc; /* Blue text color */
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #004080; /* Dark blue text color */
+  margin-bottom: 1rem;
+}
+
+/* Paragraph Styles */
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #555; /* Dark gray text color */
+  margin-bottom: 1.5rem;
+}
+
+/* List Styles */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #444; /* Gray text color */
+  margin-bottom: 0.5rem;
+}
+
+/* Container Styles */
+.cloud-container {
+  background-color: #fff; /* White background color */
+  border: 1px solid #ddd; /* Light gray border */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle lift */
+}
